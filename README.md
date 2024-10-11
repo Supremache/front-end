@@ -16,7 +16,7 @@ To get started with any of the projects in this repository, follow the instructi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/front-end.git
+   git clone https://github.com/Supremache/front-end.git
    cd front-end
 2. Navigate to the desired project folder and follow the project-specific instructions.
 
