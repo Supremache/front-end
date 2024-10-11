@@ -1,6 +1,6 @@
 # Modern Front-End Dashboard
 
-![Dashboard Screenshot](path/to/your/screenshot.png) <!-- Replace with the path to your dashboard screenshot -->
+![image](https://github.com/user-attachments/assets/4f0975fe-8235-471f-8444-f45074a0b91b)
 
 ## Overview
 
@@ -46,8 +46,8 @@ Once the application is running, you can navigate through the dashboard to explo
 
 ## Screenshots
 
-![Screenshot 1](path/to/your/first_screenshot.png) <!-- Replace with the path to another screenshot -->
-![Screenshot 2](path/to/your/second_screenshot.png) <!-- Replace with the path to another screenshot -->
+![image](https://github.com/user-attachments/assets/e52113d6-ea00-4896-8565-684d903741b9)
+![image](https://github.com/user-attachments/assets/4911f090-532f-4062-ac21-5e12ffc98a62)
 
 ## Contributing
 
