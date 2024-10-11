@@ -30,7 +30,6 @@ The repository is organized into the following directories:
 
 - **components/**: Contains reusable UI components that can be integrated into various projects.
   - **Responsive-Contact-Form**: A responsive contact form component built with HTML, CSS, and JavaScript.
-  - **Navigation-Bar**: A versatile navigation bar component that adapts to different screen sizes.
 
 ## Technologies Used
 
