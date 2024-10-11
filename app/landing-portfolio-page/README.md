@@ -1,5 +1,7 @@
 # React Portfolio Projects
 
+![11 October 2024-Screenshot Editor Tool by TechUp Labs (www techuplabs com)](https://github.com/user-attachments/assets/295b97f7-4c03-4656-987e-b03e2885d35d)
+
 Welcome to the **React Portfolio Projects** repository! This collection showcases a variety of projects created using React, aimed at demonstrating my skills and understanding of modern web development practices.
 
 ## Table of Contents
@@ -70,8 +72,8 @@ To run the project locally, follow these steps:
 
 ## Screenshots
 
-<!-- Replace with the path to your screenshot -->
-<!-- Replace with the path to your screenshot -->
+![11 October 2024-Screenshot Editor Tool by TechUp Labs (www techuplabs com) (1)](https://github.com/user-attachments/assets/4e0d6de0-65bb-4833-b1c8-86fdf3f036b6)
+![11 October 2024-Screenshot Editor Tool by TechUp Labs (www techuplabs com) (2)](https://github.com/user-attachments/assets/6aab1344-f289-42bc-9d9c-92022533ca17)
 
 ## Contributing
 
