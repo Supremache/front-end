@@ -1,0 +1,62 @@
+section.hero {
+    margin-top: 3rem;
+}
+
+section.hero .parent-avatar.flex {
+    align-items: end;
+    gap: .6rem;
+    min-height: 88px;
+}
+
+section.hero .avatar {
+    width: 88px;
+    border-radius: 50%;
+    border: 2px solid hsla(270, 37%, 61%, 0.212);
+    box-shadow: 2px 2px 40px hsla(268, 92%, 26%, 0.623) inset;
+    padding: 1px;
+}
+
+section.hero .icon-verified {
+    color: var(--blue);
+    font-size: 1.1rem;
+    margin-bottom: .3rem;
+}
+
+section.hero .left-section {
+    flex-grow: 1;
+}
+
+section.hero h1.title {
+    font-size: 2.85rem;
+    line-height: 3.3rem;
+    margin: 24px 0;
+    color: var(--primary-font);
+}
+
+section.hero p.sub-title {
+    color: var(--secondary-font);
+    font-size: .9rem;
+    line-height: 1.65rem;
+    margin-bottom: 3rem;
+}
+
+section.hero .all-icons {
+    font-size: 1.3rem;
+    gap: 1.5rem;
+
+    & .icon:hover {
+        transition: .3s ease;
+        font-size: 1.2rem;
+        cursor: pointer;
+        color: var(--primary-font);
+    }
+}
+
+section.hero .right-section.animation {
+    width: 100%;
+    translate: 100px 55px;
+}
+
+@media (max-width: 1000px) {
+    section.hero .right-section.animation { display: none };
+}

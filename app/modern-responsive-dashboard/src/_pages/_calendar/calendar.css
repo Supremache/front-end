@@ -1,0 +1,11 @@
+.demo-app-main {
+    flex-grow: 1;
+    padding: 3em;
+    color: 4;
+  }
+  
+  .fc { /* the calendar root */
+    max-width: 98%;
+    max-height: 64vh;
+    margin: 0 auto;
+  }

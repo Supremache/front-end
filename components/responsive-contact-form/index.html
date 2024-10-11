@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Contact form</title>
+  </head>
+  <body>
+    <form id="contactForm" novalidate>
+      <h1>Contact Us</h1>
+      <section class="flex space">
+        <div class="stretch">
+          <label for="fname">First Name</label>
+          <input type="text" name="firstname" id="fname" required />
+          <small class="error-message" data-for="fname">This field is required.</small>
+        </div>
+        <div class="stretch">
+          <label for="lname">Last Name</label>
+          <input type="text" name="lastname" id="lname" required />
+          <small class="error-message" data-for="lname">This field is required.</small>
+        </div>
+      </section>
+
+      <section>
+        <label for="email">Email Address</label>
+        <input type="email" name="Email" id="email" required />
+        <small class="error-message" data-for="email">Please enter a valid email address.</small>
+      </section>
+
+      <section>
+        <label for="query">Query Type</label>
+        <div class="flex space">
+          <fieldset id="queryType" class="stretch">
+            <label>
+              <input
+                id="enquiry"
+                type="radio"
+                name="query"
+                value="enquiry"
+                required
+              />
+              General Enquiry
+            </label>
+          </fieldset>
+          <fieldset id="queryType" class="stretch">
+            <label>
+              <input
+                id="support"
+                type="radio"
+                name="query"
+                value="support"
+              />
+              Support Request
+            </label>
+          </fieldset>
+        </div>
+        <small class="error-message" data-for="queryType">Please select a query type.</small
+        >
+      </section>
+
+      <section>
+        <label for="message">Message</label>
+        <textarea name="message" id="message" required></textarea>
+        <small class="error-message" data-for="message">This field is required.</small>
+    </section>
+
+      <section>
+        <div class="consent-container">
+          <input type="checkbox" name="consent" id="consent" required />
+          <label for="consent">I consent to being contacted by the team</label>
+        </div>
+        <small class="error-message" data-for="consent">To submit this form, please consent to being contacted.</small>
+      </section>
+
+      <input type="submit" id="submit" value="Submit" />
+
+      <div class="alert-container">
+        <div class="alert-title">
+          <img src="./assets/images/icon-success-check.svg" alt="success" />
+          <h4>Message Sent!</h4>
+        </div>
+
+        <p>Thanks for completing the form. We'll be in touch soon!</p>
+      </div>
+    </form>
+  </body>
+
+  <script src="./script.js"></script>
+</html>
