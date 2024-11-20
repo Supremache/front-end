@@ -1,3 +1,5 @@
+![artwaves](https://github.com/user-attachments/assets/965da9bb-48d3-431d-84e4-df567b8cb3ab)
+
 # Artwaves - Digital Art Marketplace
 
 **Artwaves** is an innovative digital art marketplace that empowers artists to showcase their unique creations and enables users to browse, buy, and sell modern digital art. This front-end application is built using **React** and **Tailwind CSS** for a responsive and interactive gallery experience. This app is part of the **front-end** section of the larger project located in the `app` directory.
@@ -111,5 +113,10 @@ We welcome contributions from the open-source community to improve **Artwaves**.
 
    ```vbnet
    This markdown version maintains the clarity of the original instructions while using proper syntax for code blocks. Let me know if you'd like any further adjustments!
+
+
+![image](https://github.com/user-attachments/assets/29267234-dcc6-4d2c-88dd-fa5f54b37572)
+
+![image](https://github.com/user-attachments/assets/9e0220d1-a319-4dfb-9859-b54768e92bcc)
 
 
