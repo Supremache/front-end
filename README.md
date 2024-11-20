@@ -39,7 +39,7 @@ This repository employs a variety of modern technologies, including but not limi
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactive and dynamic functionality.
 - **React**: A JavaScript library for building user interfaces (used in specific projects).
-- **Material UI**: A popular React UI framework for faster and easier web development.
+- **Material UI & Tailwind**: A popular React UI framework for faster and easier web development.
 - **Framer Motion**: A library for creating animations in React applications.
 - **React Router DOM**: A routing library for React to manage navigation.
 - **Vite**: A modern build tool that provides a faster and leaner development experience.
