@@ -2,7 +2,7 @@
 
 Vestiura is a modern, visually stunning e-commerce landing page for a clothing store. The application showcases a clean and responsive design with advanced animations and components to elevate the user experience. Built using modern technologies, it ensures seamless performance and scalability.
 
-![Vestiura Landing Page Preview](./preview-image.png)
+![Vestiura Landing Page Preview](https://github.com/user-attachments/assets/aa1ee0f7-18c8-4356-9bbd-7f22461e263f)
 
 ## Features
 
@@ -33,11 +33,13 @@ To get started with the Vestiura project, clone this repository and follow the s
   ```bash
   npm install
 # or
+  ```bash
   yarn install
 3. ### Start the development server:
   ```bash
   npm run dev
 # or
+  ```bash
   yarn dev
 4. ### Open your browser and navigate to:
   ```bash
@@ -62,8 +64,12 @@ To get started with the Vestiura project, clone this repository and follow the s
 1. ### To deploy the project:
   ```bash
   npm run build
+
 # or
+
+  ```bash
   yarn build
+
 2. ### Deploy the ```dist/``` folder to your preferred hosting service (e.g., Vercel, Netlify, AWS).
 
 ## Project Structure
@@ -74,12 +80,15 @@ To get started with the Vestiura project, clone this repository and follow the s
 2. ### Create a new branch for your feature/bugfix:
   ```bash
   git checkout -b feature-name
+
 3. ### Commit your changes:
   ```bash
   git commit -m "Add feature-name"
+
 4. ### Push the branch:
   ```bash
   git push origin feature-name
+
 5. ### Open a Pull Request.
 
 ## License
