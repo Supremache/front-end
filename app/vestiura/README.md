@@ -58,19 +58,19 @@ To get started with the Vestiura project, clone this repository and follow the s
 
 ## Project Structure
   ```Code
-  ├── public/               # Contains static assets like images and fonts
-  ├── src/
-  │   ├── components/       # Houses reusable React components
-  │   ├── constants/       # Houses reusable React components
-  │   ├── hooks/       # Houses reusable React components
-  │   ├── pages/            # Application pages for routing
-  │   ├── lib/            # Utility functions and helper methods
-  │   └── App.tsx           # Main entry point of the React application
-  │   └── index.css           # Main entry point of the React application
-  │   └── main.tsx           # Main entry point of the React application
-  ├── tailwind.config.js    # Configuration for Tailwind CSS
-  ├── tsconfig.json         # TypeScript configuration file
-  ├── package.json          # Project metadata and dependencies
+├── public/               # Contains static assets like images, fonts, and other publicly accessible files
+├── src/
+│   ├── components/       # Houses reusable React components for UI elements and logic
+│   ├── constants/        # Houses constant values (e.g., API endpoints, theme settings)
+│   ├── hooks/            # Houses reusable custom React hooks for state management and logic
+│   ├── pages/            # Application pages for routing, typically linked to specific URLs
+│   ├── lib/              # Utility functions and helper methods for common tasks (e.g., formatting, validation)
+│   └── App.tsx           # Main entry point of the React application, contains component tree and routing
+│   └── index.css         # Main global stylesheet for the React application
+│   └── main.tsx           # Main entry point for ReactDOM rendering, sets up React and app-wide context
+├── tailwind.config.js    # Configuration for Tailwind CSS, including theme, colors, and plugin settings
+├── tsconfig.json         # TypeScript configuration file, defines compiler options and project settings
+├── package.json          # Project metadata and dependencies, including scripts, version, and package details
   ```
 
 ## Project Structure
