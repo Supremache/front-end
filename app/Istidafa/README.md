@@ -2,6 +2,7 @@
 
 Istidafa is a modern web hosting platform designed to provide users with a seamless and intuitive experience for exploring and managing web hosting solutions. This platform simplifies the process of choosing and purchasing hosting plans, offering a reliable and flexible solution for individuals and businesses alike.
 
+![image](https://github.com/user-attachments/assets/687ed8d4-2b17-4a54-be8c-97b332497268)
 
 ## Features
 
