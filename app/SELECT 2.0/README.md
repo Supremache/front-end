@@ -36,6 +36,9 @@ SELECT 2.0 is a sleek and modern implementation of the SELECT landing page redes
 - **Clean Codebase**: Adheres to industry best practices for readability and extensibility.
 - **Accessibility**: Implements basic ARIA attributes to enhance usability for all users.
 
+## Figma File
+Check out the original design files on Figma: [Figma File Link](https://www.figma.com/design/VTTXoGwFZX7ZbTupUYGQqU)
+
 ## Getting Started
 
 ### Prerequisites
