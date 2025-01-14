@@ -1,5 +1,7 @@
 # SELECT 2.0 Project Documentation
 
+![image](https://github.com/user-attachments/assets/88fc0e05-d921-44fa-856d-27b0b11525e0)
+
 ## About the Project
 
 SELECT 2.0 is a sleek and modern implementation of the SELECT landing page redesign. This project faithfully replicates the Figma designs provided by SELECT, leveraging advanced front-end technologies to deliver a performance-optimized, maintainable, and scalable codebase.
